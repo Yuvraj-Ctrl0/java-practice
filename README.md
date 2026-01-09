@@ -1,5 +1,4 @@
 # java-practice
-My daily java practice repo
 Day-1
   1. Write program to print “Hello World”
   2. Add two numbers (user input)
