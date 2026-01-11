@@ -5,3 +5,10 @@ Day-1
   3. Swap two variables 
   4. Find area of rectangle
   5. Check number positive or negative
+
+Day-2
+  1. Greatest of 3 numbers
+  2. Check leap year
+  3. Print numbers 1 to n
+  4. Sum of n natural numbers
+  5. Table of a number
