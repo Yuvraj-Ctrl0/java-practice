@@ -12,3 +12,10 @@ Day-2
   3. Print numbers 1 to n
   4. Sum of n natural numbers
   5. Table of a number
+
+Day-3
+  1. Reverse a number
+  2. Check palindrome number
+  3. Count digits
+  4. Factorial using loop
+  5. Sum of digits
