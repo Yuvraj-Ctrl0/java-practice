@@ -19,3 +19,10 @@ Day-3
   3. Count digits
   4. Factorial using loop
   5. Sum of digits
+
+Day-4
+  1. Check prime number
+  2. Print primes till n
+  3. Fibonacci till n terms
+  4. Armstrong number
+  5. Calculator using switch case
