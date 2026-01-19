@@ -26,3 +26,10 @@ Day-4
   3. Fibonacci till n terms
   4. Armstrong number
   5. Calculator using switch case
+
+Day-5
+  1. Array input and print
+  2. Array sum
+  3. Find max/min in array
+  4. Linear search
+  5. Count even numbers in array
